@@ -2,5 +2,5 @@ Git is a version control system.
 Git is free software.  
 Git is of vital importance.
 Git is very convenient ,too,too.
-cherry is ugly.
+cherry is very ugly.
 Creating a new branch is quick and good.
